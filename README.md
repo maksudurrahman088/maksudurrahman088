@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Maksudur Rahman</h1>
 
-<h4>About me</h4>
+<h3>About me</h3>
 <p align="left">Aspiring Data Scientist,Enthusiast in Machine Learning & AI .I am Maksudur Rahman, born in Bangladesh and passionate about exploring the world. I love travelling, hanging out with friends, and cherishing moments with my family. Currently,<br> I am diving deep into the exciting fields of AI and Data Science, learning and applying these technologies to innovative solutions. I started my programming journey with C. After learning basic programming knowledge, I shifted to C++ and data structures which sharpened my problem-solving skills. Then I transitioned into the exciting world of data science by learning Python, along with its versatile libraries like pandas, NumPy, matplotlib, and scikit-learn. I also gained proficiency in MySQL. These tools have been invaluable in helping me analyze data, create predictive models, and draw meaningful insights that support data-driven decision-making.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maksudurrahman088&label=Profile%20views&color=0e75b6&style=flat" alt="maksudurrahman088" /> </p>
 
 - 📫 How to reach me **maksudsagor088@gmail.com**
 
-<h4 align="left">Connect with me:</h4>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/maksudur-rahman088" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maksudur-rahman088" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/maksudur_rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="maksudur_rahman" height="30" width="40" /></a>
 </p>
 <br>
-<h4 align="left">My skills:</h4> <br>
+<h3 align="left">My skills:</h3> <br>
 <p align=""> 
   <h4>Programming language</h4> <br>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
